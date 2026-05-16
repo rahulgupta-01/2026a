@@ -243,23 +243,12 @@ You are required to use APA 7. Refer to the SCU Library Guides for further guida
 ---
 
 ## Generative Artificial Intelligence (GenAI) Guidelines
-This assessment is classified as GenAI use Level 2: May be used for specific assessment tasks or purposes as identified and scaffolded by the Unit Assessor.
-* ☑ You may use GenAI to research topics, generate ideas, and develop an outline. Acknowledge this use.
-* ☑ You may use GenAI tools such as Copilot and Grammarly for grammar and readability checking. Acknowledge this use.
-* ☒ You may not use GenAI to write your assessment or produce your submission.
+This assessment is classified as GenAI use Level 2: AI can be used for 100% of the assessment tasks or purposes. 
+* ☑ You may use GenAI to research topics, generate ideas, and develop an outline. 
+* ☑ You may use GenAI tools such as Copilot and Grammarly for grammar and readability checking. 
+* ☒ You may use GenAI to write your assessment or produce your submission.
 
 For further information see Generative AI for Students.
-
-### GenAI Declaration
-You must include one of the following statements with your assessment submission:
-
-**If you DID use GenAI, include this statement:**
-> I acknowledge that I have used Generative AI tools to complete this assessment in accordance with the conditions outlined in the Assessment Brief. I used [insert name of GenAI tool(s)] to [briefly describe how the tool(s) were used, e.g., generate ideas, check grammar, develop an outline].
-
-**If you DID NOT use GenAI, include this statement:**
-> I acknowledge that I have not knowingly used GenAI to complete this assessment.
-
-*Note: The Unit Assessor may ask you to explain or demonstrate how GenAI tools were used and how your use complied with the assessment guidelines. Please ensure you are prepared to discuss this if requested.*
 
 ---
 
@@ -269,27 +258,6 @@ You must submit the following item(s):
 * 1500 Word Classroom Management Plan as a Word document to Turnitin via the Assessment portal. Include a Cover page at the start of your document, and a reference list at the end of your document.
 * A penalty of 5% of the available marks will be deducted from the actual mark at one minute after the due date. A further 5% will be deducted for each subsequent calendar day until the mark reaches zero. Refer to the Assessment, Teaching and Learning Procedures, Section 4 for more information.
 
-All submissions must be clearly labelled. Include the unit code, assessment number, full name, student ID. For example, `EDUC3032_A1_FullName_ID123456`.
-
-If you are unsure how to submit an item, refer the following support resources:
-* SCU How To Guide: How to Submit an Assignment in Turnitin in Blackboard Ultra for Students
-
----
-
-## Rules Relating to Assessment and Examination
-For information regarding extensions, special consideration, late submissions, resubmissions, grades, appeals, and academic integrity, refer to:
-* Rules Relating to Awards -- Rule 3 -- Coursework Awards -- Student Assessment and Examinations
-* How to apply for Special Consideration
-* Final Grades
-
-### Academic Integrity Declaration
-By submitting this assessment, I declare that:
-* I have read and understood SCU's Academic Integrity policies and referencing guidelines.
-* I am aware of the consequences of academic misconduct and confirm that this submission is my own original work, referenced appropriately, and has not been previously submitted.
-* I authorise its reproduction for authentication purposes and understand the implications of a false declaration.
-* I have adhered to guidelines regarding Generative AI.
-
----
 
 ## Assessment Criteria
 
