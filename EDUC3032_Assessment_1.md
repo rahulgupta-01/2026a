@@ -15,7 +15,7 @@
 * Estimated workload
 * Teaching and learning arrangements
 * Assessment
-* Assessment overviewa
+* Assessment overview
 
 ---
 
