@@ -1,101 +1,3 @@
-# EDUC5003
-## Teaching and Learning Literacy and Numeracy in Context
-### Unit Outline
-### Term 2, 2026
-
-scu.edu.au  
-CRICOS Provider: 01241G
-
-&nbsp;
-
-## Contents
-* About this unit
-* Modules
-* Unit learning outcomes
-* Learning resources
-* Prescribed texts and materials
-* Estimated workload
-* Teaching and learning arrangements
-* Assessment
-* Assessment overview
-
----
-
-## About this unit
-Introduces a theory-based understanding of literacy and numeracy in education; and enables advanced knowledge in these fields of knowledge to be applied to professional areas.
-
-## Modules
-* **Module 1:** Literacy – Reading, Viewing and Writing; Numeracy in everyday lives 
-* **Module 2:** Literacy and numeracy demands: Speaking and listening; mathematics in everyday situations
-* **Module 3:** Numeracy – Number and Algebra 
-* **Module 4:** Numeracy – Measurement and Geometry, and Statistics and Probability
-* **Module 5:** Literacy and Numeracy - Planning for teaching, programming and reporting, interpreting data; Contemporary understandings of literacy and numeracy 
-* **Module 6:** Literacy and Numeracy - Supporting a diverse range of students with a range of strategies and resources 
-
-## Unit learning outcomes
-As a graduate of Southern Cross University, you will have developed skills, values and attitudes that are essential for gaining employment and advancing lifelong learning. The University refers to these as graduate attributes.
-
-Learning outcomes for this unit:
-* explain a theory-based understanding and knowledge of the role of literacy and numeracy in education
-* analyse the literacy and numeracy demands upon students together with other available data to identify areas of individual need
-* develop teaching plans that embody literacy and numeracy focuses, incorporating the effective use of literacy and numeracy strategies and assessment tasks to inform teaching, as well as developing specific strategies for students who require additional support
-* evaluate the role of digital technologies for effective teaching with literacy and numeracy for all students including students with disability or additional learning needs
-
-## Learning resources
-### Prescribed texts and materials
-There are no prescribed texts or materials for this unit.
-
-## Teaching and learning arrangements
-### Estimated workload
-
-| Scheduled hours | Personal study | Total |
-|---|---|---|
-| 18 | 132 | 150 |
-
-### Scheduled Study Hours
-Your scheduled study hours are allocated as follows (please refer only to the Teaching and Learning arrangements relevant to the location you are enrolled in for this unit):
-
-#### Gold Coast
-| Teaching method | Duration | Frequency | Delivery Mode |
-|---|---|---|---|
-| Workshop | 1 hour | Weekly | Online |
-| Tutorial | 2 hours | Weekly | On-campus |
-
-#### Online
-| Teaching method | Duration | Frequency | Delivery Mode |
-|---|---|---|---|
-| Workshop | 1 hour | Weekly | Online |
-| Tutorial | 2 hours | Weekly | Online |
-
-#### Perth
-| Teaching method | Duration | Frequency | Delivery Mode |
-|---|---|---|---|
-| Workshop | 1 hour | Weekly | Online |
-| Tutorial | 2 hours | Weekly | On-campus |
-
-#### Perth
-| Teaching method | Duration | Frequency | Delivery Mode |
-|---|---|---|---|
-| Workshop | 1 hour | Weekly | Online |
-| Tutorial | 2 hours | Weekly | On-campus |
-
-## Assessment
-### Assessment overview
-Assessment Policies and Procedures to be followed are outlined in the Unit site, under the Assessment tab, sub-tab Assessment Policies and Procedures.
-
-| Assessment | Group/ individual | Learning outcomes | Grading indicator | Weight | Length/ duration | Week Due |
-|---|---|---|---|---|---|---|
-| 1. Assessment | INDIV | 1,2,3,4 | Graded | 50% | 2000 words or equivalent | 3 |
-| 2. Assessment | INDIV | 1,2,3,4 | Graded | 50% | 2000 words or equivalent | 6 |
-
-
-
-----------
-
-
-Brief: 
-
-
 # EDUC5003 Teaching and Learning
 
 ## Literacy and Numeracy in Context
@@ -128,8 +30,6 @@ This section provides a brief description of the assessment task (the ‘what’
 
 You will present a theory-based explanation of the role of numeracy engagement within education, highlighting the importance of ensuring all students are supported broadly across the curriculum and specifically within Key Learning Area Content to achieve the highest levels of numeracy progression possible. Embodying this essential practice, you will analyse a geography textbook excerpt and draw upon the Australian Curriculum (V9) General Capability: Numeracy, to determine the mathematical and numerical skills required to meaningfully engage with, explore, and learn about its content. Next, you will develop a teaching plan to enhance specific skills required for enhancing numeracy capabilities in geography learning.
 
-*Assessment Brief Page 1 of 12*
-
 ---
 
 ## Task Instructions
@@ -160,7 +60,7 @@ Why do we enhance numeracy in our classrooms? Explain the role of numeracy withi
 - Include discussion about the relevance of numeracy to a specific Learning Area, and specifically key topics / content within that Learning Area (Point 3).
 - Be clear and present specific statements (avoid generalisations).
 - Consistently integrate high-quality and relevant academic literature to support your explanation, including the unit’s key readings.
-- Consistently connect to the Australian Curriculum (V9) General Capability: Numeracy.
+- Consistently connect to the [Australian Curriculum (V9) General Capability: Numeracy](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/numeracy?element=0&sub-element=NNNPV).
 - Draw Learning Area topics / content from the current version of your state curriculum.
 - (Optionally) connect to the relevant Australian Professional Standards for Teachers.
 
@@ -172,7 +72,7 @@ Why do we enhance numeracy in our classrooms? Explain the role of numeracy withi
 
 How do we know what numeracy capabilities our students will need to effectively engage with Learning Area content? Analyse the provided Primary or Secondary excerpt from a textbook for teaching and learning the Australian Curriculum Geography, to determine the skills required in the context of the Australian Curriculum capability numeracy, to meaningfully engage with, understand, and make use of the information presented. The Primary excerpt is targeted to students in Years 5 or 6 (specifically focus on pp. 14-15). The Secondary excerpt is targeted to students in Years 7 or 8 (use the whole excerpt). This part of the assessment requires you to address three points:
 
-1. Identify a Year level: 5-6 or 7-8. Carefully analyse either the Primary or Secondary Geography textbook excerpt intended for that Year level. Analyse both the text and graphics. Use the Australian Curriculum (V9) General Capability: Numeracy and your own professional judgement to determine the key skills students will need to understand, effectively consider, and meaningfully learn from the presented information. Provide examples from the excerpt for each of the numeracy capabilities you identify (see below from the ACARA Australian Curriculum Version 9).
+1. Identify a Year level: 5-6 or 7-8. Carefully analyse either the Primary or Secondary Geography textbook excerpt intended for that Year level. Analyse both the text and graphics. Use the [Australian Curriculum (V9) General Capability: Numeracy](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/numeracy?element=0&sub-element=NNNPV) and your own professional judgement to determine the key skills students will need to understand, effectively consider, and meaningfully learn from the presented information. Provide examples from the excerpt for each of the numeracy capabilities you identify (see below from the ACARA Australian Curriculum Version 9). What is the Numeracy general capability? The Version 9.0 Australian Curriculum: Numeracy general capability is presented as a Numeracy learning progression. It describes the observable indicators of increasing complexity in students' understanding of, and skills in, key numeracy concepts. The Numeracy learning progression includes the elements of Number sense and algebra, Measurement and geometry, and Statistics and probability.
 
 2. Compile a list of numeracy terms (minimum of 10) that are included in the analysed Geography textbook excerpt and provide a clear, plain language definition for each of them that is conceptually appropriate for the target students. You may use a dictionary or curriculum glossary for guidance, but the definitions must be your own writing, and able to be easily understood by the students.
 
@@ -183,12 +83,10 @@ How do we know what numeracy capabilities our students will need to effectively 
 - Identify a specific Year level (Year 5 or 6 for Primary, or Year 7 or 8 for Secondary).
 - Be in written (paragraph) form (Point 1) and use the provided table (Points 2 & 3).
 - Be specific to your future teaching context (Primary / Secondary).
-- Be guided by specific Australian Curriculum (V9) General Capability: Numeracy Level statements.
+- Be guided by specific [Australian Curriculum (V9) General Capability: Numeracy Level statements](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/numeracy?element=0&sub-element=NNNPV).
 - Include clear examples from the Geography textbook excerpt relevant to the skills identified (quoted text or snipped graphics).
 - Be clear and present specific statements (avoid generalisations).
 - Be written in your own words (including definitions provided as part of Point 2).
-
-*Assessment Brief Page 2 of 12*
 
 ---
 
@@ -210,7 +108,7 @@ You are a casual teacher filling in for either a Primary (Year 5 or 6) or Second
 
 - **Lesson 1:** Work out what percentage of the population of NSW live in Sydney (you will need to collect this data). Repeat this process to calculate the percentage of the population of every other state and territory that live in their corresponding capital city. Consider and rationalise the best way to represent this information graphically.
 
-- **Lesson 2:** Calculate average monthly temperatures for Sydney. Determine the mode, mean, and median of the highest 24hr temperature for each month based upon the data available on the Bureau of Meteorology website. Represent these averages graphically, considering the usefulness of different ways in which the information could be presented. Discuss the spread of the raw data and identify how this has impacted the calculated mode, mean, and median.
+- **Lesson 2:** Calculate average monthly temperatures for Sydney. Determine the mode, mean, and median of the highest 24hr temperature for each month based upon the data available on the [Bureau of Meteorology website](https://www.bom.gov.au/climate/maps/averages/temperature/#:~:text=How%20are%20the%20values%20calculated,temperature%2C%20and%20dividing%20by%20two.). Represent these averages graphically, considering the usefulness of different ways in which the information could be presented. Discuss the spread of the raw data and identify how this has impacted the calculated mode, mean, and median.
 
 Relevant to both contexts, some of the students think they are “not good at maths” and will need help understanding and remembering these numeracy procedures. You will need to work with them in a small group and take them through these procedures step-by-step.
 
@@ -220,7 +118,7 @@ This part of the assessment requires you to describe how you – the teacher –
 
 - Be in written (paragraph) form.
 - Be specific to your future teaching context (Primary / Secondary) and explicitly identify the Year level you are planning for (the same as that used for Part B).
-- Connect the specific numeracy capabilities you are targeting to relevant Level Statements in the Australian Curriculum (V9) General Capability: Numeracy.
+- Connect the specific numeracy capabilities you are targeting to relevant Level Statements in the [Australian Curriculum (V9) General Capability: Numeracy](https://www.australiancurriculum.edu.au/f-10-curriculum/general-capabilities/numeracy?element=0&sub-element=NNNPV).
 - Explain the specific teaching and learning strategies that will be used to achieve the identified numeracy enhancement, including use of explicit teaching and a gradual release of responsibility (achieved through both groupwork and individual learning activities).
 - Consider any possible integration(s) of digital tools to meaningfully enhance the learning.
 - Integrate high-quality and relevant academic literature to support your planning decisions, including the unit’s key readings.
@@ -244,7 +142,7 @@ This section explains how you will submit your assessment.
 
 Please note that you are required to use the Assessment Template. This unit provides a template for both Assessment 1 and Assessment 2 – in the EDUC5003 Blackboard site, Assessment folders. Ensure you use the correct one for each task.
 
-Your assessment must be saved as a Word (DOCX) document. You must save your submission with a filename comprised of your Primacy / Secondary context, curriculum, surname and initial, and the unit and assessment number, e.g.:
+Your assessment must be saved as a Word (DOCX) document. You must save your submission with a filename comprised of your Primary / Secondary context, curriculum, surname and initial, and the unit and assessment number, e.g.:
 
 - Pri_AC _Smith.B_EDUC5003_A2 / Sec_AC _Smith_B_EDUC5003_A2
 - Pri_NESA _Smith.B_EDUC5003_A2 / Sec_NESA _Smith.B_EDUC5003_A2
@@ -254,8 +152,6 @@ Your assessment must be saved as a Word (DOCX) document. You must save your subm
 This document must be uploaded to TURNITIN. The submission link can be found in the EDUC5003 TURNITIN Assessment 2 Tab in the EDUC5003 Blackboard Site under the Assessment 2 folder.
 
 Please note: It is YOUR responsibility to ensure that you have submitted the correct file and the FINAL version of your assessment for marking BEFORE the due date/time. Turnitin no longer generates an automatic email receipt. If you have successfully uploaded your assessment, a green bar will appear at the top of the screen that says: Submission uploaded successfully: Download digital receipt. Use the hyperlink to download your digital receipt – it is your timestamped proof of submission.
-
-*Assessment Brief Page 4 of 12*
 
 ---
 
@@ -306,8 +202,6 @@ The following are suggestions to safeguard yourself if you are asked to demonstr
 - Keep a list of the digital tools and applications that you used to complete this assessment, and clear evidence of exactly how you used it (see the above GenAI may be used for this assessment within defined limits section of this document for more details).
 - Take screenshots of your progress when completing your assessment (undertaking research as well as writing), include the date and time in the screenshot. Save these in case they are required.
 
-*Assessment Brief Page 6 of 12*
-
 ---
 
 ## Special Consideration
@@ -339,24 +233,11 @@ This section explains how your assessments will be marked.
 
 Assessments that have been submitted by the due date will receive an SCU grade. Grades and feedback will be posted to the ‘Grades and Feedback’ section on the Blackboard unit site. Please allow 7 days (excluding public holidays) for marks to be posted. Usually, an Announcement will be made on the unit site’s homepage when grades are made available.
 
-*Assessment Brief Page 7 of 12*
-
 ---
 
 # Task Rubric
 
 ## Marking Criteria
-
-| Grade | Description |
-|---|---|
-| **High Distinction +** | High Distinction + |
-| **High Distinction** | High Distinction |
-| **Distinction** | Distinction |
-| **Credit** | Credit |
-| **Pass** | Pass |
-| **Marginal Fail** | Marginal Fail |
-| **Fail** | Fail |
-| **NA** | NA |
 
 ---
 
@@ -375,8 +256,6 @@ Assessments that have been submitted by the due date will receive an SCU grade. 
 | **Fail** | Submission does not meet the requirements of this criterion. |
 | **NA** | Not addressed / Not applicable. |
 
-*Assessment Brief Page 8 of 12*
-
 ---
 
 ## Criterion 2: Analysis
@@ -394,8 +273,6 @@ Assessments that have been submitted by the due date will receive an SCU grade. 
 | **Fail** | Submission does not meet the requirements of this criterion. |
 | **NA** | Not addressed / Not applicable. |
 
-*Assessment Brief Page 9 of 12*
-
 ---
 
 ## Criterion 3: Teaching Plan
@@ -408,12 +285,10 @@ Assessments that have been submitted by the due date will receive an SCU grade. 
 | **High Distinction** | Highly distinctive planning that identifies a specific Year level and very effectively outlines how all of the required skills and knowledge could be taught, complete with specific details relating to explicit teaching and how the gradual release of responsibility will be enacted. Teaching strategies and learning activities (both groupwork and individual) exemplify masterful educative practice, are convincingly realistic and suited to the content and students, and will facilitate very highly engaging, educative, and enhancing numeracy capabilities. Includes masterful consideration of the possible integration of digital tools that are ideally suitable and highly likely to enhance numeracy capabilities. All key numeracy skills are very clearly connected to highly relevant General Capability: Numeracy Level Statements. Commendably consistent integration of an expansive range of high-quality academic literature (including all key unit readings) to support your planning decisions. |
 | **Distinction** | Distinctive planning that identifies a specific Year level and effectively outlines how nearly all of the required skills and knowledge could be taught, complete with specific details relating to explicit teaching and how the gradual release of responsibility will be enacted. Teaching strategies and learning activities (both groupwork and individual) exemplify distinctive educative practice, are realistic and well-suited to the content and students, and are very likely to facilitate highly engaging, educative, and empowering numeracy development. Includes skilful consideration of the possible integration of digital tools that are suitable and likely to enhance the learning. Most key numeracy skills are clearly connected to relevant General Capability: Numeracy Level Statements. Consistent integration of a broad range of high-quality academic literature (including most key unit readings) to support your planning decisions. |
 | **Credit** | Creditable planning that identifies a specific Year level and outlines how most of the required skills and knowledge could be taught, inclusive of specific details relating to explicit teaching and how the gradual release of responsibility will be enacted. Teaching strategies and learning activities (both groupwork and individual) exemplify effective educative practice, are largely realistic and mostly suitable for the content and students, and have potential to facilitate engaging, educative, and empowering numeracy development. Includes consideration of the possible integration of digital tools that are largely suitable and could enhance the learning. Most key numeracy skills are connected to relevant General Capability: Numeracy Level Statements. Creditable integration of a range of high-quality academic literature (including key unit readings) to support your planning decisions. |
-| **Pass** | Passible planning that identifies a specific Year level and loosely outlines how some of the required skills and knowledge could be taught, inclusive of details relating to explicit teaching and how the gradual release of responsibility will be enacted. Teaching strategies and learning activities (both groupwork and individual) exemplify somewhat effective educative practice, are passably realistic and sufficiently suitable for the content and students,and could facilitate numeracy enhancement. Includes limited consideration of the possible integration of adequately appropriate digital tools. Passable connection of key skills to relevant General Capability: Numeracy Level Statements. Some integration of high-quality academic literature (including key unit readings) to support your planning decisions. |
-| **Marginal Fail** | Has not presented passible planning for how the required skills and knowledge could be taught, inclusive of details relating to explicit teaching and how the gradual release of responsibility will be enacted. Teaching strategies and learning activities (both groupwork and individual) are not adequately realistic or suitable for the content and students, and are unlikely to facilitate effective numeracy enhancement. Does not include sufficient consideration of the possible integration of appropriate digital tools. Few / no key numeracy skills are connected to relevant General Capability: Numeracy Level Statements. Inadequate integration of high-quality academic literature (including key unit readings) to support your planning decisions. |
+| **Pass** | Passable planning that identifies a specific Year level and loosely outlines how some of the required skills and knowledge could be taught, inclusive of details relating to explicit teaching and how the gradual release of responsibility will be enacted. Teaching strategies and learning activities (both groupwork and individual) exemplify somewhat effective educative practice, are passably realistic and sufficiently suitable for the content and students,and could facilitate numeracy enhancement. Includes limited consideration of the possible integration of adequately appropriate digital tools. Passable connection of key skills to relevant General Capability: Numeracy Level Statements. Some integration of high-quality academic literature (including key unit readings) to support your planning decisions. |
+| **Marginal Fail** | Has not presented Passable planning for how the required skills and knowledge could be taught, inclusive of details relating to explicit teaching and how the gradual release of responsibility will be enacted. Teaching strategies and learning activities (both groupwork and individual) are not adequately realistic or suitable for the content and students, and are unlikely to facilitate effective numeracy enhancement. Does not include sufficient consideration of the possible integration of appropriate digital tools. Few / no key numeracy skills are connected to relevant General Capability: Numeracy Level Statements. Inadequate integration of high-quality academic literature (including key unit readings) to support your planning decisions. |
 | **Fail** | Submission does not meet the requirements of this criterion. |
 | **NA** | Not addressed/ Not applicable |
-
-*Assessment Brief Page 10 of 12*
 
 ---
 
@@ -431,8 +306,6 @@ Assessments that have been submitted by the due date will receive an SCU grade. 
 | **Marginal Fail** | Insufficient academic literacy demonstrated with MOST present:<br><br>- Incorrect word count (+/- 10%).<br>- Inadequate use of writing conventions (grammar, punctuation, spelling, structure, clarity of expression).<br>- Insufficiently well formatted in-text citations.<br>- Insufficiently well formatted reference list.<br>- Did not follow template instructions.<br>- Did not clearly distinguish between AI-assisted and original work with acknowledgement of all sources and an appendix that includes the prompts used and outputs generated. |
 | **Fail** | Does not demonstrate academic literacy at the expected level. |
 | **NA** | Not addressed/ Not applicable |
-
-*Assessment Brief Page 11 of 12*
 
 ---
 
@@ -457,5 +330,3 @@ The student’s performance satisfies all of the basic learning requirements spe
 ## Fail:
 
 The student’s performance fails to satisfy the learning requirements specified.
-
-*Assessment Brief Page 12 of 12*
