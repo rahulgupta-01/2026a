@@ -190,27 +190,27 @@ You must reference at least three of the following across your presentation. You
 
 ### Commonwealth
 
-- Disability Discrimination Act 1992 (Cth)
-- Disability Standards for Education 2005 (Cth)
-- Australian Student Wellbeing Framework
-- Privacy Act 1988 (Cth)
-- Child Protection legislation (e.g., Children and Young Persons (Care and Protection) Act 1998, NSW)
-- Australian Professional Standards for Teachers (APST)
-- Nationally Consistent Collection of Data (NCCD) on School Students with Disability
-- Alice Springs (Mparntwe) Education Declaration 2019
-- Australian Government eSafety Commissioner
+- [Disability Discrimination Act 1992 (Cth)](https://www.legislation.gov.au/C2004A04426/latest/versions)
+- [Disability Standards for Education 2005 (Cth)](https://www.education.gov.au/disability-standards-education-2005)
+- [Australian Student Wellbeing Framework](https://www.studentwellbeinghub.edu.au/resources/detail?id=australian-student-wellbeing-framework)
+- [Privacy Act 1988 (Cth)](https://www.legislation.gov.au/C2004A03712/latest/versions)
+- [Child Protection legislation (e.g., Children and Young Persons (Care and Protection) Act 1998, NSW)](https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-157)
+- [Australian Professional Standards for Teachers (APST)](https://www.aitsl.edu.au/teach/standards)
+- [Nationally Consistent Collection of Data (NCCD) on School Students with Disability](https://www.nccd.edu.au/)
+- [Alice Springs (Mparntwe) Education Declaration 2019](https://www.education.gov.au/alice-springs-mparntwe-education-declaration)
+- [Australian Government eSafety Commissioner](https://www.esafety.gov.au/)
 
 ### (Example) NSW Policies, Legislation and Practice Frameworks
 
-Note: If choosing to ground your response in another state or territory (for example, Qld, NSW, Vic), you must refer to the policies, legislations, and practice frameworks in these locations.
+*Note: If choosing to ground your response in another state or territory (for example, Qld, NSW, Vic), you must refer to the policies, legislations, and practice frameworks in these locations.*
 
-- Anti-Discrimination Act 1977 (NSW)
-- Work Health and Safety Act 2011 (NSW)
-- Children and Young Persons (Care and Protection) Act 1998 (NSW)
-- NSW Department of Education Student Behaviour Policy (2024)
-- NSW Inclusive Education Policy for Students with Disability
-- NSW Wellbeing Framework for Schools
-- Multi-Tiered System of Supports (MTSS) including Positive Behaviour for Learning (PBL) as the NSW implementation model
+- [Anti-Discrimination Act 1977 (NSW)](https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1977-048)
+- [Work Health and Safety Act 2011 (NSW)](https://legislation.nsw.gov.au/view/html/inforce/current/act-2011-10)
+- [Children and Young Persons (Care and Protection) Act 1998 (NSW)](https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-157)
+- [NSW Department of Education Student Behaviour Policy (2024)](https://education.nsw.gov.au/policy-library/policies/pd-2006-0316)
+- [NSW Inclusive Education Policy for Students with Disability](https://education.nsw.gov.au/policy-library/policies/pd-2005-0243)
+- [NSW Wellbeing Framework for Schools](https://education.nsw.gov.au/student-wellbeing/wellbeing-framework)
+- [Multi-Tiered System of Supports (MTSS) including Positive Behaviour for Learning (PBL) as the NSW implementation model](https://education.nsw.gov.au/schooling/school-community/attendance-behaviour-and-engagement/behaviour-support-toolkit)
 
 ## Task Instructions
 
