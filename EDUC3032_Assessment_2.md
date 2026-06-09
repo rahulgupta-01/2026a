@@ -304,41 +304,7 @@ You are required to use APA 7th edition referencing. Refer to the SCU Library Gu
 
 ## Generative Artificial Intelligence (GenAI) Guidelines
 
-This assessment is classified as GenAI use Level 2: May be used for specific assessment tasks or purposes as identified and scaffolded by the Unit Assessor.
-
-- ✅ You may use GenAI to research topics, generate ideas, and develop an outline. Acknowledge this use.
-- ✅ You may use GenAI tools such as Copilot and Grammarly for grammar and readability checking. Acknowledge this use.
-- ❌ You may not use GenAI to write your assessment or produce your submission.
-
-For further information see Generative AI for Students: https://www.scu.edu.au/genai/students/
-
-## GenAI Declaration
-
-You must include one of the following statements with your assessment submission:
-
-If you DID use GenAI, include this statement:
-
-I acknowledge that I have used Generative AI tools to complete this assessment in accordance with the conditions outlined in the Assessment Brief. I used [insert name of GenAI tool(s)] to [briefly describe how the tool(s) were used, e.g., generate ideas, check grammar, develop an outline].
-
-If you DID NOT use GenAI, include this statement:
-
-I acknowledge that I have not knowingly used GenAI to complete this assessment.
-
-Note: The Unit Assessor may ask you to explain or demonstrate how GenAI tools were used and how your use complied with the assessment guidelines. Please ensure you are prepared to discuss this if requested.
-
-## Rules Relating to Assessment and Examination
-
-For information regarding extensions, special consideration, late submissions, resubmissions, grades, appeals, and academic integrity, refer to:
-
-- Rules Relating to Awards -- Rule 3 -- Coursework Awards -- Student Assessment and Examinations
-- How to apply for Special Consideration
-- Final Grades
-
-## Academic Integrity Declaration
-
-By submitting this assessment, I declare that:
-
-I have read and understood SCU's Academic Integrity policies and referencing guidelines. I am aware of the consequences of academic misconduct and confirm that this submission is my own original work, referenced appropriately, and has not been previously submitted. I authorise its reproduction for authentication purposes and understand the implications of a false declaration. I have adhered to guidelines regarding Generative AI.
+GenAI usage is 100% allowed and there are no restrictions. You are allowed to use GenAI in any way you prefer to.
 
 ## Assessment Criteria
 
