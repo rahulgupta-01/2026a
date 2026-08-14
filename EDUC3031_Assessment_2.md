@@ -1,7 +1,6 @@
 # Assessment details
 
 | **Unit Code Title** | EDUC3031 |
-|---|---|
 | **Assessment Type** | Differentiating Learning for Diverse Learners |
 | **Due Date** | Week 6, Sunday, 16th August, 11:59 pm (AEST) |
 | **Weight** | 50 |
