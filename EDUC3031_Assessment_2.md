@@ -1,32 +1,13 @@
 # Assessment details
 
-**Unit Code Title**
-
-**EDUC3031**
-
-**Assessment Type**
-
-*Differentiating Learning for Diverse Learners*
-
-**Due Date**
-
-*Week 6, Sunday, 16th August, 11:59 pm (AEST)*
-
-**Weight**
-
-*50*
-
-**Length / Duration**
-
-*1500 words or equivalent*
-
-**Individual / Group**
-
-*Individual*
-
-**Unit Learning Outcomes (ULOS)**
-
-*ULO1, ULO2, ULO3, ULO4*
+| **Unit Code Title** | EDUC3031 |
+|---|---|
+| **Assessment Type** | Differentiating Learning for Diverse Learners |
+| **Due Date** | Week 6, Sunday, 16th August, 11:59 pm (AEST) |
+| **Weight** | 50 |
+| **Length / Duration** | 1500 words or equivalent |
+| **Individual / Group** | Individual |
+| **Unit Learning Outcomes (ULOS)** | ULO1, ULO2, ULO3, ULO4 |
 
 ---
 
@@ -52,7 +33,7 @@
 
 *Choose an existing worksheet suitable for your teaching context (e.g. literacy, numeracy, HASS, science).*
 
-- *Briefly describe:*
+*Briefly describe:*
 - *Year level*
 - *Learning area*
 - *Learning intention*
@@ -75,7 +56,7 @@
 
 *Adapt the original worksheet twice, once for each learner. Each version should be a personalised resource that addresses the needs outlined in the learner profiles.*
 
-- *Differentiation may include changes to:*
+*Differentiation may include changes to:*
 - **Content** *(what is being learned)*
 - **Process** *(how learning occurs)*
 - **Product** *(how learning is demonstrated)*
@@ -112,5 +93,4 @@
 *This assessment is classified as:*
 
 - **100% AI use permitted**
-
-*AI can be use unrestricted in any way for this assignment.*
+- **AI can be use unrestricted in any way for this assignment.**
